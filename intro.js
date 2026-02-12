@@ -1,7 +1,7 @@
 let name = "OLAMS";
 let age = 20;
-let favourite Programming Language = "JavaScript";
+let favouriteProgrammingLanguage = "JavaScript";
 
 console.log("Name:", name);
 console.log("Age:", age);
-console.log("Favorite Programming Language:", favoriteLanguage);
+console.log("Favorite Programming Language:", favouriteProgrammingLanguage);
